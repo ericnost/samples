@@ -1,2 +1,2 @@
 # samples
-Example code from CLES presentation 4-12-16
+* Example code from CLES presentation 4-12-16
